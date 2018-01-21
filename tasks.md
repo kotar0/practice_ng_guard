@@ -1,0 +1,4 @@
+- make lazyLoad page
+- to protect access lazyload page
+- make fake login function
+- to protext access if you are not login.
